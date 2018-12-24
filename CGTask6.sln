@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGTask6", "CGTask6\CGTask6.csproj", "{F63B860C-2339-4234-A64B-E983FB8D2044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGLib", "CGLib\CGLib.csproj", "{4ED575C4-F1BC-457A-80D9-925AF180984C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63B860C-2339-4234-A64B-E983FB8D2044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63B860C-2339-4234-A64B-E983FB8D2044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63B860C-2339-4234-A64B-E983FB8D2044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63B860C-2339-4234-A64B-E983FB8D2044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED575C4-F1BC-457A-80D9-925AF180984C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED575C4-F1BC-457A-80D9-925AF180984C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED575C4-F1BC-457A-80D9-925AF180984C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED575C4-F1BC-457A-80D9-925AF180984C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C826A168-92D2-424C-BFEE-1AA7D2F0DD0F}
+	EndGlobalSection
+EndGlobal
